@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ritanshu Tiwari
-Skills: HTML, CSS, JS, Tailwind CSS, Python , Django , C++ , Familiar with Java , Git , Github.
-Email: ritanshutiwari593@gmail.com
-{{/user}}
